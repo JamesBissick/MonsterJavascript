@@ -1,20 +1,10 @@
-const myObj = {
-    first: 'James',
-    last: 'Harrys'
-};
+const el = document.querySelector('div');
+el.style.width = '150px';
+el.style.height = '100px';
+el.style.position = 'absolute';
+el.style.top = '100px';
+el.style.left = '100px';
+el.style.backgroundColor = '#F86B60';
 
-let temp = JSON.stringify(myObj);
-localStorage.setItem('object', temp);
-let nObj = JSON.parse(localStorage.getItem('object'));
-console.log(nObj);
-
-if (localStorage.getItem('num')){
-    let count = localStorage.getItem('num');
-    count = Number(count);
-    count++;
-    localStorage.setItem('num', count);
-} else {
-    localStorage.setItem('num', 1);
-}
-
-console.log(localStorage.getItem('num'));
+// Returns size and position in the window
+console.log(el.getBoundingClientRect());

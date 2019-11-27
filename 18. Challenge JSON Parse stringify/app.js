@@ -1,12 +1,12 @@
-let d = new Date();
-d = Date.now();
-d = new Date(2020, 10, 7, 6, 35, 44, 13);
-// d = d.toString();
-d = d.toDateString();
+const myObj = {
+    first: 'James',
+    last: 'Harrys'
+};
 
-let value = d;
-console.log(value);
+// Parse it into a string
+let myString = JSON.stringify(myObj);
+console.log(myString);
 
-let days = 10;
-const newDate = new Date(Date.now() + (days *24*60*60*1000));
-console.log(newDate);
+// Parse it into an object
+let newObj = JSON.parse(myString);
+console.log(newObj);
