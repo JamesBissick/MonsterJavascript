@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="189ebe8e-7d28-46e3-8468-96dd715aa6df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/18. Challenge JSON Parse stringify/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18. Challenge JSON Parse stringify/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Locale Storage/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Locale Storage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20. getBoundingClientRect method/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20. getBoundingClientRect method/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21. Timers/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21. Timers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22. Encode Decode URI/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22. Encode Decode URI/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23. RegExp/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23. RegExp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24. Prototypes/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24. Prototypes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25. Try and Catch/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25. Try and Catch/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10. String Methods/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/10. String Methods/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17. JS Date Methods/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. JS Date Methods/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.RegExp" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -54,12 +56,16 @@
       <recent name="$PROJECT_DIR$/9. Bubbling and Capturing" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MonsterJavascript/22. Encode Decode URI/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/5. Event Target">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.app.js" />
       </list>
     </recent_temporary>
@@ -98,10 +104,17 @@
       <workItem from="1574435017467" duration="274000" />
       <workItem from="1574519454830" duration="3337000" />
       <workItem from="1574780729152" duration="12491000" />
+      <workItem from="1574968621668" duration="5707000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1731" y="-124" key="SettingsEditor" timestamp="1574972300685">
+      <screen x="-1920" y="-257" width="1920" height="989" />
+    </state>
+    <state x="-1731" y="-124" key="SettingsEditor/-1920.-257.1920.989/0.23.1280.777@-1920.-257.1920.989" timestamp="1574972300685" />
   </component>
 </project>
